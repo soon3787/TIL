@@ -4,3 +4,6 @@
 
 ## JS 문법
 - [JS 문법 알아보기!](https://github.com/soon3787/TIL/blob/master/js/js_grammer/js_grammer.md)
+
+## JS 타입
+- [JS 타입 알아보기!](https://github.com/soon3787/TIL/blob/master/js/js_type/js_type.md)
